@@ -7,6 +7,10 @@ body {
   margin: 0;
 }
 
+main{
+  padding: 36px;
+}
+
 .header {
   display: flex;
   align-items: center;
@@ -53,6 +57,6 @@ body {
   cursor: pointer;
 }
 
-main{
-  padding: 36px;
+.meme--image{
+  max-width:100%;
 }
